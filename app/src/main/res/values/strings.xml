@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Recipes Advisor</string>
+    <string name="facebook_icon">facebook_icon</string>
+    <string name="instagram_icon">instagram_icon</string>
+    <string name="twitter_icon">twitter_icon</string>
+    <string name="Recipes_logo">Recipes_logo</string>
+    <string name="new_user">Nuovo utente?</string>
+    <string name="subscribe">Iscriviti</string>
+    <string name="accedi">Accedi</string>
+    <string name="presentation">Presentazione</string>
+    <string name="presentation_text">
+        Questa applicazione ha lo scopo di consigliare pietanze in base ai gusti, la disponibilità economica e temporale, e l\'abilità culinaria dell\'utente.\n
+    \nIl database contiene più di 4000 ricette formate partendo da quasi 1000 ingredienti differenti.
+    L\'algoritmo sfrutta un cold starting basato su settaggi forniti dall\'utente e una media dei feedback delle pietanze che sono già state valutate.\n
+    \nIn una fase più evoluta dell\'esperienza d\'utilizzo l\'argoritmo ricercherà elementi che non solo incontrano i parametri del cold start, ma sfruttano l\'esperienza degli utenti con gusti simili a quelli dell\'utilizzatore così da garantire la raccomandazione della ricetta che abbia più possibilità di piacere.\n
+    \nProcediamo allora al settaggio dei parametri per il cold start tramite la freccia che si trova in basso a destra o premendo sulla scritta continua.\n
+    \nVi auguro una buona esperienza su Recipe Advisor.\n
+    </string>
+    <string name="creator_name">Giulio Di Maria</string>
+    <string name="continue_text">Continua</string>
+    <string name="subindicationSelection">Se si presentato più voci dello stesso ingrediente, selezionale tutte.</string>
+    <string name="indication_selection">Seleziona ingredienti <b><u>a cui sei allergico o detesti</u></b></string>
+    <string name="likes_selection">Seleziona i tuoi ingredienti <b><u>preferiti</u></b></string>
+    <string name="dislikes_selection">Seleziona gli ingredienti che<b><u> non ti piacciono</u></b></string>
+    <string name="registration">Registrazione</string>
+    <string name="settingsActivities">Procedi ai settaggi del Profilo</string>
+    <string name="wrongInsertedPasswords">Le due password non sono uguali. Correggile</string>
+    <string name="quantoSpendere">Quanto vuoi spendere max?</string>
+    <string name="tempoDisp">Quanto tempo hai?</string>
+    <string name="notImportant">Non importa</string>
+    <string name="tipPietanza">Quale tipologia ricerchi?</string>
+    <string name="antipasti">Antipasti</string>
+    <string name="molto_poco">Molto poco</string>
+    <string name="_1_min">1 min</string>
+    <string name="contorni">Contorni</string>
+    <string name="primi_piatti">Primi piatti</string>
+    <string name="secondi_piatti">Secondi piatti</string>
+    <string name="dolci">Dolci</string>
+    <string name="consigliami">Consigliami</string>
+    <string name="l_adviser">L\' adviser</string>
+    <string name="cookSkills">Livello di difficoltà max?</string>
+    <string name="si">SI</string>
+</resources>
