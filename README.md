@@ -1,5 +1,5 @@
 # RecipesAdviser
-An Italian recipe adviser __Android APP__ with homemade AI collaborative algorithms to suggest the dish you wish. Suggestions are based on a selection of ingredients from the user. A further funnel filter elaborates his preferences and those of users like him to provide the best possible choise.
+An Italian recipe adviser __Android APP__ with homemade AI collaborative algorithms to suggest the meal you wish. Suggestions are based on a selection of ingredients from the user. A further funnel filter elaborates his preferences and those of users like him to provide the best possible choise.
 
 Thesis [TESI-DiMaria.pdf](Thesis/TESI-DiMaria.pdf):
 
