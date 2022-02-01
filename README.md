@@ -1,11 +1,11 @@
 # RecipesAdviser
 An Italian recipe adviser __Android APP__ with homemade AI collaborative algorithms to suggest the dish you wish. Suggestions are based on a selection of ingredients from the user. A further funnel filter elaborates his preferences and those of users like him to provide the best possible choise.
 
-Thesis [TESI-DiMaria.pdf](https://github.com/gdm1995/RecipesAdviser/blob/master/Thesis/TESI-DiMaria.pdf):
+Thesis [TESI-DiMaria.pdf](Thesis/TESI-DiMaria.pdf):
 
 <p align="center">
-    <a https://github.com/gdm1995/RecipesAdviser/blob/master/Thesis/TESI-DiMaria.pdf" title="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE">
-        <img src="https://github.com/gdm1995/RecipesAdviser/blob/master/Thesis/TESI-DiMaria-screenshot.png" width="400" alt="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE" title="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE" />
+    <a href="Thesis/TESI-DiMaria.pdf" title="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE">
+        <img src="Thesis/TESI-DiMaria-screenshot.png" width="400" alt="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE" title="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE" />
     </a>
 </p>
 
