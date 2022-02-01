@@ -9,5 +9,5 @@ Thesis [TESI-DiMaria.pdf](Thesis/TESI-DiMaria.pdf):
     </a>
 </p>
 
-All recipes and related information were downloaded from the Giallo Zafferano website via Web scraping. All data used belongs to © 2019 Mondadori Media S.p.A.
+All recipes and related information were downloaded from the [Giallo Zafferano website](https://www.giallozafferano.it/) via Web scraping. All data used belongs to © 2019 Mondadori Media S.p.A.
 
