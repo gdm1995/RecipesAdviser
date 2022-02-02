@@ -1,7 +1,7 @@
 # RecipesAdviser
-An Italian recipe adviser __Android APP__ with homemade AI collaborative algorithms to suggest the meal you wish. Suggestions are based on a selection of ingredients from the user. A further funnel filter elaborates his preferences and those of users like him to provide the best possible choise.
+Thesis of [Giulio Di Maria - Recipes Adviser](Thesis/TESI-DiMaria.pdf)
 
-Thesis [TESI-DiMaria.pdf](Thesis/TESI-DiMaria.pdf):
+An Italian recipe adviser __Android APP__ with homemade AI collaborative algorithms to suggest the meal you wish. Suggestions are based on a selection of ingredients from the user. A further funnel filter elaborates his preferences and those of users like him to provide the best possible choise.
 
 <p align="center">
     <a href="Thesis/TESI-DiMaria.pdf" title="IMPLEMENTAZIONE DI UN’APP ANDROID PER RACCOMANDARE RICETTE CULINARIE">
